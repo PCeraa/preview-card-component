@@ -23,4 +23,4 @@ The project consists of a simple screen developed with HTML and CSS, featuring a
 
 ## 📃 License 
 
-This project is under the MIT license. See the file [LICENSE](C:\Users\redem\OneDrive\Documentos\Estudo\preview-card-component\LICENSE) for more details
+This project is under the MIT license. See the file [LICENSE](./LICENSE) for more details
