@@ -18,7 +18,7 @@ The project consists of a simple screen developed with HTML and CSS, featuring a
 - CSS3 <br> <br>
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-## 💻 Preview [](https://pceraa.github.io/preview-card-component/)<a href="https://pceraa.github.io/preview-card-component/" target="_blank">🔗</a>
+## 💻 Preview <a href="https://pceraa.github.io/preview-card-component/" target="_blank">🔗</a>
 
 ![alt text](image.png)
 
