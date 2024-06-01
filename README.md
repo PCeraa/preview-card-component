@@ -20,6 +20,7 @@ The project consists of a simple screen developed with HTML and CSS, featuring a
 
 ## 💻 Preview 
 
+![alt text](image.png)
 
 ## 📃 License 
 
